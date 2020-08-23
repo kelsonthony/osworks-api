@@ -3,7 +3,7 @@ package com.kelsonthony.osworks.domain.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.kelsonthony.osworks.api.domain.exception.NegocioException;
+import com.kelsonthony.osworks.api.exception.NegocioException;
 import com.kelsonthony.osworks.domain.model.Cliente;
 import com.kelsonthony.osworks.domain.repository.ClienteRepository;
 
